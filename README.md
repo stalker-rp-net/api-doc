@@ -1,2 +1,1 @@
-# api-doc
-Docs for official API of STALKER-RP.NET
+# Check our [Wiki`s!](https://github.com/stalker-rp-net/api-doc/wiki/Introduction)
